@@ -1,0 +1,9 @@
+{
+  "name": "metro-relativity",
+  "version": "1.0.0",
+  "private": true,
+  "description": "2D metro relativity simulator with configurable light speed",
+  "scripts": {
+    "test": "node tests/simulation.cjs"
+  }
+}
